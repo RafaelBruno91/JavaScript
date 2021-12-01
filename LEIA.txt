@@ -1,0 +1,4 @@
+						***ATENÇÃO***
+
+Caso o JavaScript não leia os códigos, se atentar de abrir o index.html e 
+modificar o "<script src=".main.js"></script>"
